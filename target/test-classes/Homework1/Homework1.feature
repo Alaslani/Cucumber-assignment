@@ -1,5 +1,5 @@
 @homework
-Feature: RunHomework1Tests
+Feature: Homework1
   Scenario Outline:  dynamic url
     Given user goes to the "<page_url>"
     Then user waits for 5 seconds
