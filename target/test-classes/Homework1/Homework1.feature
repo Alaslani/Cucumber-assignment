@@ -1,5 +1,5 @@
 @homework
-Feature: Homework1
+Feature: Homework
 
   Scenario Outline: dynamic url
     Given user goes to the "<page_url>"
