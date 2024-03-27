@@ -36,8 +36,7 @@ public class StepDefinitions {
 
     @Then("user should be registered successfully")
     public void userShouldBeRegisteredSuccessfully() {
-        // Add assertion to check if registration is successful
-        // For example, you can check if a success message is displayed
+
     }
 
     @After
